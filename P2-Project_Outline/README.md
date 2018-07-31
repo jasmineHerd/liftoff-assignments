@@ -7,11 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
-### Features
-Include Features here
+This website  enables travelers to input interests,budget,and types of activies they'd be willing to do.
+In respsonse to these inputs the program suggests areas to travel. In addition to pulling google maps there is a built in
+budget tracker
+###
+User creation/login/logout
+email confirmation
+Google Maps selection
+Text/Email Notification
+-
 ### Technologies
-Include Technologies here
+Google Maps API
+Springboot
+MySQL
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to incorporate google maps
